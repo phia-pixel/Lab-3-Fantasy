@@ -1,0 +1,138 @@
+{
+  "splats": [
+    {
+      "filename": "cartoon-medieval-mario-kart-town.spz",
+      "transform": {
+        "translation": [
+          1.508,
+          1.21,
+          0
+        ],
+        "rotation": [
+          -180,
+          0,
+          0
+        ],
+        "quaternion": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "scale": 2.822
+      }
+    },
+    {
+      "filename": "dog-solo.spz",
+      "transform": {
+        "translation": [
+          -3.795,
+          -10.482,
+          -11.155
+        ],
+        "rotation": [
+          168.64243748304466,
+          -23.074643055663753,
+          0.02453759219915296
+        ],
+        "quaternion": [
+          0.975,
+          -0.02,
+          -0.199,
+          0.097
+        ],
+        "scale": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "filename": "horsefbx.fbx",
+      "originalFilename": "Horse.fbx",
+      "mimeType": "application/octet-stream",
+      "transform": {
+        "translation": [
+          4.899,
+          -0.164,
+          5.221
+        ],
+        "rotation": [
+          180,
+          -60.85100187921826,
+          180
+        ],
+        "quaternion": [
+          0,
+          -0.863,
+          0,
+          0.506
+        ],
+        "scale": [
+          0.009,
+          0.009,
+          0.009
+        ]
+      }
+    },
+    {
+      "filename": "orc-by-quaternius---5vo2yjspefglb.glb",
+      "originalFilename": "Orc by Quaternius - 5vO2YJsPEf.glb",
+      "mimeType": "model/gltf-binary",
+      "transform": {
+        "translation": [
+          -4.06,
+          1.991,
+          -15.07
+        ],
+        "rotation": [
+          0,
+          -24.71822269010217,
+          0
+        ],
+        "quaternion": [
+          0,
+          -0.214,
+          0,
+          0.977
+        ],
+        "scale": [
+          0.675,
+          0.667,
+          0.675
+        ]
+      }
+    },
+    {
+      "filename": "knight-by-vaporworks---1tnt5xc6vqglb.glb",
+      "originalFilename": "Knight by Vaporworks - 1TnT5Xc6vq.glb",
+      "mimeType": "model/gltf-binary",
+      "transform": {
+        "translation": [
+          5.851,
+          0,
+          5.767
+        ],
+        "rotation": [
+          180,
+          -88.11002190771273,
+          180
+        ],
+        "quaternion": [
+          0,
+          -0.718,
+          0,
+          0.696
+        ],
+        "scale": [
+          0.237,
+          0.237,
+          0.237
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "exportTimestamp": "2026-10-06T23:09:48.443Z",
+    "spzExportVersion": 3
+  }
+}
