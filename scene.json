@@ -134,5 +134,46 @@
   "metadata": {
     "exportTimestamp": "2026-10-06T23:09:48.443Z",
     "spzExportVersion": 3
-  }
+  },
+  "audio": [
+    {
+      "id": "f4e450ad-a734-446c-af63-ef91f53ae7e3",
+      "filename": "audio-f4e450ad-a734-446c-af63-ef91f53ae7e3.m4a",
+      "name": "Jakey Sleepy.m4a",
+      "position": [
+        -4.630164664086258,
+        1.743847890254999,
+        -13.934985253439702
+      ],
+      "loop": true,
+      "volume": 1,
+      "color": 9830334
+    },
+    {
+      "id": "f1bd9fa6-6606-4783-a495-bfd018ebbd11",
+      "filename": "audio-f1bd9fa6-6606-4783-a495-bfd018ebbd11.m4a",
+      "name": "Knife.m4a",
+      "position": [
+        5.791881332390089,
+        1.706824581626283,
+        5.748788428136865
+      ],
+      "loop": true,
+      "volume": 0.8,
+      "color": 15073173
+    },
+    {
+      "id": "620a8735-7fc8-41a9-ae7b-b07f72644be6",
+      "filename": "audio-620a8735-7fc8-41a9-ae7b-b07f72644be6.m4a",
+      "name": "Tapping.m4a",
+      "position": [
+        6.1000558825106035,
+        -0.013984110331139998,
+        6.219345973389222
+      ],
+      "loop": true,
+      "volume": 0.8,
+      "color": 16449429
+    }
+  ]
 }
